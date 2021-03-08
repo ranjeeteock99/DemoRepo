@@ -57,6 +57,7 @@ public class GoogleSearchPageTestusingtestng {
 	public void tearDownTest()
 	{
 		System.out.println("Success");
+                System.out.println("Success");
 		//driver.close();
 	}
 
